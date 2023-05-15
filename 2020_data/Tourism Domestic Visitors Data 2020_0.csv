@@ -1,0 +1,397 @@
+District,Month,Year,visitors,Dates
+Adilabad,January,2020,621850,1/1/2020
+Adilabad,February,2020,29421,2/1/2020
+Adilabad,March,2020,9430,3/1/2020
+Adilabad,April,2020,0,4/1/2020
+Adilabad,May,2020,0,5/1/2020
+Adilabad,June,2020,1909,6/1/2020
+Adilabad,July,2020,549,7/1/2020
+Adilabad,August,2020,654,8/1/2020
+Adilabad,September,2020,3978,9/1/2020
+Adilabad,October,2020,15128,10/1/2020
+Adilabad,November,2020,27525,11/1/2020
+Adilabad,December,2020,61403,12/1/2020
+Bhadradri Kothagudem ,January,2020,269310,1/1/2020
+Bhadradri Kothagudem ,February,2020,238140,2/1/2020
+Bhadradri Kothagudem ,March,2020,79871,3/1/2020
+Bhadradri Kothagudem ,April,2020,0,4/1/2020
+Bhadradri Kothagudem ,May,2020,0,5/1/2020
+Bhadradri Kothagudem ,June,2020,15399,6/1/2020
+Bhadradri Kothagudem ,July,2020,15130,7/1/2020
+Bhadradri Kothagudem ,August,2020,26350,8/1/2020
+Bhadradri Kothagudem ,September,2020,30957,9/1/2020
+Bhadradri Kothagudem ,October,2020,49203,10/1/2020
+Bhadradri Kothagudem ,November,2020,76900,11/1/2020
+Bhadradri Kothagudem ,December,2020,80842,12/1/2020
+Hyderabad,January,2020,1157153,1/1/2020
+Hyderabad,February,2020,868641,2/1/2020
+Hyderabad,March,2020,321650,3/1/2020
+Hyderabad,April,2020,0,4/1/2020
+Hyderabad,May,2020,0,5/1/2020
+Hyderabad,June,2020,0,6/1/2020
+Hyderabad,July,2020,0,7/1/2020
+Hyderabad,August,2020,0,8/1/2020
+Hyderabad,September,2020,21861,9/1/2020
+Hyderabad,October,2020,167510,10/1/2020
+Hyderabad,November,2020,272276,11/1/2020
+Hyderabad,December,2020,442895,12/1/2020
+Jagtial ,January,2020,340174,1/1/2020
+Jagtial ,February,2020,186484,2/1/2020
+Jagtial ,March,2020,347014,3/1/2020
+Jagtial ,April,2020,0,4/1/2020
+Jagtial ,May,2020,0,5/1/2020
+Jagtial ,June,2020,14228,6/1/2020
+Jagtial ,July,2020,41752,7/1/2020
+Jagtial ,August,2020,34496,8/1/2020
+Jagtial ,September,2020,83012,9/1/2020
+Jagtial ,October,2020,83004,10/1/2020
+Jagtial ,November,2020,154438,11/1/2020
+Jagtial ,December,2020,155757,12/1/2020
+Jangaon ,January,2020,28150,1/1/2020
+Jangaon ,February,2020,26390,2/1/2020
+Jangaon ,March,2020,21430,3/1/2020
+Jangaon ,April,2020,0,4/1/2020
+Jangaon ,May,2020,0,5/1/2020
+Jangaon ,June,2020,0,6/1/2020
+Jangaon ,July,2020,2600,7/1/2020
+Jangaon ,August,2020,2750,8/1/2020
+Jangaon ,September,2020,2700,9/1/2020
+Jangaon ,October,2020,3050,10/1/2020
+Jangaon ,November,2020,12070,11/1/2020
+Jangaon ,December,2020,11860,12/1/2020
+Jayashankar Bhoopalpally,January,2020,50500,1/1/2020
+Jayashankar Bhoopalpally,February,2020,59000,2/1/2020
+Jayashankar Bhoopalpally,March,2020,34200,3/1/2020
+Jayashankar Bhoopalpally,April,2020,0,4/1/2020
+Jayashankar Bhoopalpally,May,2020,0,5/1/2020
+Jayashankar Bhoopalpally,June,2020,0,6/1/2020
+Jayashankar Bhoopalpally,July,2020,5600,7/1/2020
+Jayashankar Bhoopalpally,August,2020,7000,8/1/2020
+Jayashankar Bhoopalpally,September,2020,7600,9/1/2020
+Jayashankar Bhoopalpally,October,2020,8000,10/1/2020
+Jayashankar Bhoopalpally,November,2020,15000,11/1/2020
+Jayashankar Bhoopalpally,December,2020,15200,12/1/2020
+Jogulamba Gadwal ,January,2020,146441,1/1/2020
+Jogulamba Gadwal ,February,2020,481110,2/1/2020
+Jogulamba Gadwal ,March,2020,24013,3/1/2020
+Jogulamba Gadwal ,April,2020,0,4/1/2020
+Jogulamba Gadwal ,May,2020,0,5/1/2020
+Jogulamba Gadwal ,June,2020,26013,6/1/2020
+Jogulamba Gadwal ,July,2020,88182,7/1/2020
+Jogulamba Gadwal ,August,2020,106925,8/1/2020
+Jogulamba Gadwal ,September,2020,131485,9/1/2020
+Jogulamba Gadwal ,October,2020,116753,10/1/2020
+Jogulamba Gadwal ,November,2020,228325,11/1/2020
+Jogulamba Gadwal ,December,2020,184380,12/1/2020
+Kamareddy ,January,2020,45,1/1/2020
+Kamareddy ,February,2020,42,2/1/2020
+Kamareddy ,March,2020,30,3/1/2020
+Kamareddy ,April,2020,0,4/1/2020
+Kamareddy ,May,2020,0,5/1/2020
+Kamareddy ,June,2020,0,6/1/2020
+Kamareddy ,July,2020,38,7/1/2020
+Kamareddy ,August,2020,42,8/1/2020
+Kamareddy ,September,2020,55,9/1/2020
+Kamareddy ,October,2020,39,10/1/2020
+Kamareddy ,November,2020,46,11/1/2020
+Kamareddy ,December,2020,48,12/1/2020
+Karimnagar ,January,2020,12057,1/1/2020
+Karimnagar ,February,2020,8359,2/1/2020
+Karimnagar ,March,2020,6100,3/1/2020
+Karimnagar ,April,2020,0,4/1/2020
+Karimnagar ,May,2020,0,5/1/2020
+Karimnagar ,June,2020,540,6/1/2020
+Karimnagar ,July,2020,850,7/1/2020
+Karimnagar ,August,2020,2500,8/1/2020
+Karimnagar ,September,2020,2250,9/1/2020
+Karimnagar ,October,2020,3258,10/1/2020
+Karimnagar ,November,2020,4100,11/1/2020
+Karimnagar ,December,2020,4200,12/1/2020
+Khammam,January,2020,114752,1/1/2020
+Khammam,February,2020,114417,2/1/2020
+Khammam,March,2020,57137,3/1/2020
+Khammam,April,2020,0,4/1/2020
+Khammam,May,2020,0,5/1/2020
+Khammam,June,2020,12806,6/1/2020
+Khammam,July,2020,9104,7/1/2020
+Khammam,August,2020,7942,8/1/2020
+Khammam,September,2020,9078,9/1/2020
+Khammam,October,2020,27858,10/1/2020
+Khammam,November,2020,40647,11/1/2020
+Khammam,December,2020,37084,12/1/2020
+Komaram Bheem Asifabad,January,2020,2463,1/1/2020
+Komaram Bheem Asifabad,February,2020,1593,2/1/2020
+Komaram Bheem Asifabad,March,2020,812,3/1/2020
+Komaram Bheem Asifabad,April,2020,0,4/1/2020
+Komaram Bheem Asifabad,May,2020,0,5/1/2020
+Komaram Bheem Asifabad,June,2020,60,6/1/2020
+Komaram Bheem Asifabad,July,2020,56,7/1/2020
+Komaram Bheem Asifabad,August,2020,55,8/1/2020
+Komaram Bheem Asifabad,September,2020,165,9/1/2020
+Komaram Bheem Asifabad,October,2020,533,10/1/2020
+Komaram Bheem Asifabad,November,2020,637,11/1/2020
+Komaram Bheem Asifabad,December,2020,649,12/1/2020
+Mahabubabad ,January,2020,12290,1/1/2020
+Mahabubabad ,February,2020,12180,2/1/2020
+Mahabubabad ,March,2020,8300,3/1/2020
+Mahabubabad ,April,2020,0,4/1/2020
+Mahabubabad ,May,2020,0,5/1/2020
+Mahabubabad ,June,2020,0,6/1/2020
+Mahabubabad ,July,2020,1400,7/1/2020
+Mahabubabad ,August,2020,1800,8/1/2020
+Mahabubabad ,September,2020,1950,9/1/2020
+Mahabubabad ,October,2020,2200,10/1/2020
+Mahabubabad ,November,2020,3450,11/1/2020
+Mahabubabad ,December,2020,3370,12/1/2020
+Mahbubnagar,January,2020,122530,1/1/2020
+Mahbubnagar,February,2020,552303,2/1/2020
+Mahbubnagar,March,2020,25577,3/1/2020
+Mahbubnagar,April,2020,0,4/1/2020
+Mahbubnagar,May,2020,0,5/1/2020
+Mahbubnagar,June,2020,20956,6/1/2020
+Mahbubnagar,July,2020,60255,7/1/2020
+Mahbubnagar,August,2020,73928,8/1/2020
+Mahbubnagar,September,2020,135984,9/1/2020
+Mahbubnagar,October,2020,94083,10/1/2020
+Mahbubnagar,November,2020,98683,11/1/2020
+Mahbubnagar,December,2020,111514,12/1/2020
+Mancherial,January,2020,25661,1/1/2020
+Mancherial,February,2020,41809,2/1/2020
+Mancherial,March,2020,9855,3/1/2020
+Mancherial,April,2020,0,4/1/2020
+Mancherial,May,2020,0,5/1/2020
+Mancherial,June,2020,210,6/1/2020
+Mancherial,July,2020,290,7/1/2020
+Mancherial,August,2020,302,8/1/2020
+Mancherial,September,2020,2758,9/1/2020
+Mancherial,October,2020,4745,10/1/2020
+Mancherial,November,2020,6717,11/1/2020
+Mancherial,December,2020,10439,12/1/2020
+Medak ,January,2020,286340,1/1/2020
+Medak ,February,2020,818750,2/1/2020
+Medak ,March,2020,288800,3/1/2020
+Medak ,April,2020,0,4/1/2020
+Medak ,May,2020,0,5/1/2020
+Medak ,June,2020,5300,6/1/2020
+Medak ,July,2020,4325,7/1/2020
+Medak ,August,2020,15380,8/1/2020
+Medak ,September,2020,15880,9/1/2020
+Medak ,October,2020,17380,10/1/2020
+Medak ,November,2020,45000,11/1/2020
+Medak ,December,2020,55000,12/1/2020
+Medchal ,January,2020,0,1/1/2020
+Medchal ,February,2020,0,2/1/2020
+Medchal ,March,2020,0,3/1/2020
+Medchal ,April,2020,0,4/1/2020
+Medchal ,May,2020,0,5/1/2020
+Medchal ,June,2020,0,6/1/2020
+Medchal ,July,2020,0,7/1/2020
+Medchal ,August,2020,0,8/1/2020
+Medchal ,September,2020,0,9/1/2020
+Medchal ,October,2020,0,10/1/2020
+Medchal ,November,2020,0,11/1/2020
+Medchal ,December,2020,0,12/1/2020
+Mulugu,January,2020,3653000,1/1/2020
+Mulugu,February,2020,9157200,2/1/2020
+Mulugu,March,2020,118500,3/1/2020
+Mulugu,April,2020,0,4/1/2020
+Mulugu,May,2020,0,5/1/2020
+Mulugu,June,2020,0,6/1/2020
+Mulugu,July,2020,4550,7/1/2020
+Mulugu,August,2020,8300,8/1/2020
+Mulugu,September,2020,11300,9/1/2020
+Mulugu,October,2020,17600,10/1/2020
+Mulugu,November,2020,57200,11/1/2020
+Mulugu,December,2020,60900,12/1/2020
+Nagarkurnool ,January,2020,228812,1/1/2020
+Nagarkurnool ,February,2020,286258,2/1/2020
+Nagarkurnool ,March,2020,32333,3/1/2020
+Nagarkurnool ,April,2020,0,4/1/2020
+Nagarkurnool ,May,2020,0,5/1/2020
+Nagarkurnool ,June,2020,34508,6/1/2020
+Nagarkurnool ,July,2020,66655,7/1/2020
+Nagarkurnool ,August,2020,80155,8/1/2020
+Nagarkurnool ,September,2020,175712,9/1/2020
+Nagarkurnool ,October,2020,95788,10/1/2020
+Nagarkurnool ,November,2020,77869,11/1/2020
+Nagarkurnool ,December,2020,85280,12/1/2020
+Nalgonda,January,2020,10127,1/1/2020
+Nalgonda,February,2020,9154,2/1/2020
+Nalgonda,March,2020,772,3/1/2020
+Nalgonda,April,2020,0,4/1/2020
+Nalgonda,May,2020,0,5/1/2020
+Nalgonda,June,2020,218,6/1/2020
+Nalgonda,July,2020,224,7/1/2020
+Nalgonda,August,2020,558,8/1/2020
+Nalgonda,September,2020,2480,9/1/2020
+Nalgonda,October,2020,8541,10/1/2020
+Nalgonda,November,2020,6242,11/1/2020
+Nalgonda,December,2020,8514,12/1/2020
+Narayanapet,January,2020,47272,1/1/2020
+Narayanapet,February,2020,244657,2/1/2020
+Narayanapet,March,2020,21907,3/1/2020
+Narayanapet,April,2020,0,4/1/2020
+Narayanapet,May,2020,0,5/1/2020
+Narayanapet,June,2020,20907,6/1/2020
+Narayanapet,July,2020,39820,7/1/2020
+Narayanapet,August,2020,34777,8/1/2020
+Narayanapet,September,2020,62841,9/1/2020
+Narayanapet,October,2020,52309,10/1/2020
+Narayanapet,November,2020,49597,11/1/2020
+Narayanapet,December,2020,56031,12/1/2020
+Nirmal,January,2020,368292,1/1/2020
+Nirmal,February,2020,299646,2/1/2020
+Nirmal,March,2020,253116,3/1/2020
+Nirmal,April,2020,0,4/1/2020
+Nirmal,May,2020,0,5/1/2020
+Nirmal,June,2020,5040,6/1/2020
+Nirmal,July,2020,9212,7/1/2020
+Nirmal,August,2020,10336,8/1/2020
+Nirmal,September,2020,13377,9/1/2020
+Nirmal,October,2020,28586,10/1/2020
+Nirmal,November,2020,73126,11/1/2020
+Nirmal,December,2020,110808,12/1/2020
+Nizamabad,January,2020,7540,1/1/2020
+Nizamabad,February,2020,6400,2/1/2020
+Nizamabad,March,2020,6750,3/1/2020
+Nizamabad,April,2020,0,4/1/2020
+Nizamabad,May,2020,0,5/1/2020
+Nizamabad,June,2020,0,6/1/2020
+Nizamabad,July,2020,1620,7/1/2020
+Nizamabad,August,2020,2020,8/1/2020
+Nizamabad,September,2020,10050,9/1/2020
+Nizamabad,October,2020,6310,10/1/2020
+Nizamabad,November,2020,10900,11/1/2020
+Nizamabad,December,2020,40400,12/1/2020
+Peddapalli,January,2020,2945,1/1/2020
+Peddapalli,February,2020,2315,2/1/2020
+Peddapalli,March,2020,1450,3/1/2020
+Peddapalli,April,2020,0,4/1/2020
+Peddapalli,May,2020,0,5/1/2020
+Peddapalli,June,2020,445,6/1/2020
+Peddapalli,July,2020,250,7/1/2020
+Peddapalli,August,2020,1250,8/1/2020
+Peddapalli,September,2020,800,9/1/2020
+Peddapalli,October,2020,600,10/1/2020
+Peddapalli,November,2020,650,11/1/2020
+Peddapalli,December,2020,1105,12/1/2020
+Rajanna Sircilla ,January,2020,2298291,1/1/2020
+Rajanna Sircilla ,February,2020,963871,2/1/2020
+Rajanna Sircilla ,March,2020,885559,3/1/2020
+Rajanna Sircilla ,April,2020,0,4/1/2020
+Rajanna Sircilla ,May,2020,0,5/1/2020
+Rajanna Sircilla ,June,2020,76026,6/1/2020
+Rajanna Sircilla ,July,2020,60636,7/1/2020
+Rajanna Sircilla ,August,2020,110783,8/1/2020
+Rajanna Sircilla ,September,2020,121976,9/1/2020
+Rajanna Sircilla ,October,2020,181929,10/1/2020
+Rajanna Sircilla ,November,2020,391170,11/1/2020
+Rajanna Sircilla ,December,2020,535298,12/1/2020
+Ranga Reddy,January,2020,0,1/1/2020
+Ranga Reddy,February,2020,0,2/1/2020
+Ranga Reddy,March,2020,0,3/1/2020
+Ranga Reddy,April,2020,0,4/1/2020
+Ranga Reddy,May,2020,0,5/1/2020
+Ranga Reddy,June,2020,0,6/1/2020
+Ranga Reddy,July,2020,0,7/1/2020
+Ranga Reddy,August,2020,0,8/1/2020
+Ranga Reddy,September,2020,0,9/1/2020
+Ranga Reddy,October,2020,0,10/1/2020
+Ranga Reddy,November,2020,0,11/1/2020
+Ranga Reddy,December,2020,0,12/1/2020
+Sangareddy ,January,2020,213000,1/1/2020
+Sangareddy ,February,2020,755000,2/1/2020
+Sangareddy ,March,2020,235000,3/1/2020
+Sangareddy ,April,2020,0,4/1/2020
+Sangareddy ,May,2020,0,5/1/2020
+Sangareddy ,June,2020,9500,6/1/2020
+Sangareddy ,July,2020,27400,7/1/2020
+Sangareddy ,August,2020,45400,8/1/2020
+Sangareddy ,September,2020,47900,9/1/2020
+Sangareddy ,October,2020,55400,10/1/2020
+Sangareddy ,November,2020,149000,11/1/2020
+Sangareddy ,December,2020,167000,12/1/2020
+Siddipet,January,2020,473350,1/1/2020
+Siddipet,February,2020,204885,2/1/2020
+Siddipet,March,2020,123000,3/1/2020
+Siddipet,April,2020,0,4/1/2020
+Siddipet,May,2020,0,5/1/2020
+Siddipet,June,2020,19846,6/1/2020
+Siddipet,July,2020,23864,7/1/2020
+Siddipet,August,2020,27307,8/1/2020
+Siddipet,September,2020,30980,9/1/2020
+Siddipet,October,2020,73367,10/1/2020
+Siddipet,November,2020,72049,11/1/2020
+Siddipet,December,2020,173000,12/1/2020
+Suryapet,January,2020,0,1/1/2020
+Suryapet,February,2020,0,2/1/2020
+Suryapet,March,2020,0,3/1/2020
+Suryapet,April,2020,0,4/1/2020
+Suryapet,May,2020,0,5/1/2020
+Suryapet,June,2020,0,6/1/2020
+Suryapet,July,2020,0,7/1/2020
+Suryapet,August,2020,0,8/1/2020
+Suryapet,September,2020,0,9/1/2020
+Suryapet,October,2020,0,10/1/2020
+Suryapet,November,2020,0,11/1/2020
+Suryapet,December,2020,0,12/1/2020
+Vikarabad,January,2020,0,1/1/2020
+Vikarabad,February,2020,0,2/1/2020
+Vikarabad,March,2020,0,3/1/2020
+Vikarabad,April,2020,0,4/1/2020
+Vikarabad,May,2020,0,5/1/2020
+Vikarabad,June,2020,0,6/1/2020
+Vikarabad,July,2020,0,7/1/2020
+Vikarabad,August,2020,0,8/1/2020
+Vikarabad,September,2020,0,9/1/2020
+Vikarabad,October,2020,0,10/1/2020
+Vikarabad,November,2020,0,11/1/2020
+Vikarabad,December,2020,0,12/1/2020
+Wanaparthy ,January,2020,28131,1/1/2020
+Wanaparthy ,February,2020,22342,2/1/2020
+Wanaparthy ,March,2020,7050,3/1/2020
+Wanaparthy ,April,2020,0,4/1/2020
+Wanaparthy ,May,2020,0,5/1/2020
+Wanaparthy ,June,2020,4050,6/1/2020
+Wanaparthy ,July,2020,17092,7/1/2020
+Wanaparthy ,August,2020,30860,8/1/2020
+Wanaparthy ,September,2020,21375,9/1/2020
+Wanaparthy ,October,2020,29683,10/1/2020
+Wanaparthy ,November,2020,29036,11/1/2020
+Wanaparthy ,December,2020,27057,12/1/2020
+Warangal (Rural),January,2020,31550,1/1/2020
+Warangal (Rural),February,2020,31050,2/1/2020
+Warangal (Rural),March,2020,26050,3/1/2020
+Warangal (Rural),April,2020,0,4/1/2020
+Warangal (Rural),May,2020,0,5/1/2020
+Warangal (Rural),June,2020,0,6/1/2020
+Warangal (Rural),July,2020,560,7/1/2020
+Warangal (Rural),August,2020,870,8/1/2020
+Warangal (Rural),September,2020,1550,9/1/2020
+Warangal (Rural),October,2020,2060,10/1/2020
+Warangal (Rural),November,2020,7550,11/1/2020
+Warangal (Rural),December,2020,7530,12/1/2020
+Warangal (Urban),January,2020,157630,1/1/2020
+Warangal (Urban),February,2020,157950,2/1/2020
+Warangal (Urban),March,2020,102520,3/1/2020
+Warangal (Urban),April,2020,0,4/1/2020
+Warangal (Urban),May,2020,0,5/1/2020
+Warangal (Urban),June,2020,0,6/1/2020
+Warangal (Urban),July,2020,7300,7/1/2020
+Warangal (Urban),August,2020,9150,8/1/2020
+Warangal (Urban),September,2020,12050,9/1/2020
+Warangal (Urban),October,2020,18350,10/1/2020
+Warangal (Urban),November,2020,91120,11/1/2020
+Warangal (Urban),December,2020,92455,12/1/2020
+Yadadri Bhongir,January,2020,493002,1/1/2020
+Yadadri Bhongir,February,2020,527311,2/1/2020
+Yadadri Bhongir,March,2020,125380,3/1/2020
+Yadadri Bhongir,April,2020,0,4/1/2020
+Yadadri Bhongir,May,2020,0,5/1/2020
+Yadadri Bhongir,June,2020,76480,6/1/2020
+Yadadri Bhongir,July,2020,25375,7/1/2020
+Yadadri Bhongir,August,2020,110587,8/1/2020
+Yadadri Bhongir,September,2020,110595,9/1/2020
+Yadadri Bhongir,October,2020,481320,10/1/2020
+Yadadri Bhongir,November,2020,381150,11/1/2020
+Yadadri Bhongir,December,2020,321254,12/1/2020
