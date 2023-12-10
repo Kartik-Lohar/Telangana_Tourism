@@ -44,4 +44,6 @@ Telangana is the youngest state of India, has published its tourism data under i
      * Cultural Events
      * Promote Tourism
 
+* For detailed analysis please see the PPT presentation or you can refer to this [Video Explanation](https://drive.google.com/file/d/1wQ-0HHEZcKavQEneugKtAmc5Mo-YgPkB/view?usp=sharing).
+
 * Here is the link for the [Dashboard](https://www.novypro.com/project/telanganatouristanalytics-power-bi).
